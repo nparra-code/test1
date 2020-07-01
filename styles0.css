@@ -12,6 +12,7 @@ h1{
 #hyp{
   font: Arial;
   font-weight: bold;
+  color:white;
 }
 html{
   background-image:url("space.jpg");
