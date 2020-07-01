@@ -1,0 +1,41 @@
+h1 {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+table {
+  width: 80%;
+  border: solid;
+  border-color: black;
+  border-collapse: collapse;
+  border-width: thick;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  text-align: center;
+  color: black;
+  border: solid;
+  border-color: black;
+  border-width: thick;
+  height: auto;
+}
+
+th {
+  font-weight: bold;
+  background-color: grey;
+}
+
+td {
+  background-color: lightgrey;
+}
+
+html {
+  background-image: url("soccer.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=styles2.css.map */

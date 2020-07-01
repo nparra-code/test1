@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  color: lightgreen;
+  font-weight: bold;
+}
+
+#par1 {
+  color: red;
+}
+
+#par2 {
+  color: lightgreen;
+}
+
+ul {
+  color: red;
+  font-weight: lighter;
+  background-color: yellow;
+}
+
+/*# sourceMappingURL=styles1.css.map */

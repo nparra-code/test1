@@ -1,0 +1,25 @@
+$color: red;
+$color2: lightgreen;
+$align: center;
+
+h1{
+  text-align: $align;
+  color: $color;
+  font-weight: bold;
+}
+h2{
+  text-align: $align;
+  color: $color2;
+  font-weight: bold;
+}
+#par1{
+  color: $color;
+}
+#par2{
+  color: $color2;
+}
+ul{
+  color: $color;
+  font-weight: lighter;
+  background-color: yellow;
+}

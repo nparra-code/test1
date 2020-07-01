@@ -1,0 +1,42 @@
+$align: center;
+$backcol: grey;
+$color: black;
+$weight:bold;
+$border:solid;
+$borderc:black;
+$bwidth:thick;
+
+h1{
+  color:$color;
+  font-weight:$weight;
+  text-align:$align;
+}
+table{
+  width:80%;
+  border:$border;
+  border-color:$borderc;
+  border-collapse: collapse;
+  border-width:$bwidth;
+  margin-left:auto;
+  margin-right:auto;
+}
+th, td{
+  text-align:$align;
+  color:$color;
+  border:$border;
+  border-color:$borderc;
+  border-width:$bwidth;
+  height:auto;
+}
+th{
+  font-weight:$weight;
+  background-color:$backcol;
+}
+td{
+  background-color:lightgrey;
+}
+html{
+  background-image:url("soccer.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
