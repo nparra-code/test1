@@ -1,0 +1,24 @@
+$fcolor:black;
+$fsize:25px;
+
+html{
+  background-color:lightgrey;
+}
+h1{
+  text-align:center;
+  font-size:50px;
+  color:$fcolor;
+}
+#par1{
+  font-size:$fsize;
+  color:grey;
+}
+ol{
+  margin-left:10px;
+  color:$fcolor;
+  font-size:20px
+}
+p{
+  color:red;
+  font-size:15px;
+}

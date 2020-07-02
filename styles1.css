@@ -1,27 +1,33 @@
+html {
+  background-color: lightgrey;
+}
+
 h1 {
   text-align: center;
-  color: red;
+  color: black;
   font-weight: bold;
+  font-size: 50px;
 }
 
 h2 {
-  text-align: center;
-  color: lightgreen;
+  color: grey;
   font-weight: bold;
+  font-size: 35px;
 }
 
 #par1 {
-  color: red;
-}
-
-#par2 {
-  color: lightgreen;
+  color: black;
+  font-size: 25px;
 }
 
 ul {
+  color: black;
+  margin-left: 10px;
+}
+
+#par2 {
   color: red;
-  font-weight: lighter;
-  background-color: yellow;
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=styles1.css.map */

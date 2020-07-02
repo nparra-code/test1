@@ -1,5 +1,6 @@
 $align: center;
 $backcol: grey;
+$backcol2: lightgrey;
 $color: black;
 $weight:bold;
 $border:solid;
@@ -33,10 +34,14 @@ th{
   background-color:$backcol;
 }
 td{
-  background-color:lightgrey;
+  background-color:$backcol2;
 }
 html{
-  background-image:url("soccer.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
+  background-color:$backcol2
+}
+caption{
+  color:red;
+  font-size:15px;
+  caption-side:bottom;
+  text-align:left;
 }

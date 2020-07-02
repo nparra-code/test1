@@ -33,9 +33,14 @@ td {
 }
 
 html {
-  background-image: url("soccer.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: lightgrey;
+}
+
+caption {
+  color: red;
+  font-size: 15px;
+  caption-side: bottom;
+  text-align: left;
 }
 
 /*# sourceMappingURL=styles2.css.map */

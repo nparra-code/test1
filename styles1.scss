@@ -1,25 +1,29 @@
-$color: red;
-$color2: lightgreen;
+$color: black;
 $align: center;
 
+html{
+  background-color: lightgrey;
+}
 h1{
   text-align: $align;
   color: $color;
   font-weight: bold;
+  font-size: 50px;
 }
 h2{
-  text-align: $align;
-  color: $color2;
+  color: grey;
   font-weight: bold;
+  font-size: 35px;
 }
 #par1{
   color: $color;
-}
-#par2{
-  color: $color2;
+  font-size: 25px;
 }
 ul{
   color: $color;
-  font-weight: lighter;
-  background-color: yellow;
+  margin-left: 10px;
+}
+#par2{
+  color: red;
+  font-size: 20px
 }
