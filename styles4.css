@@ -1,0 +1,17 @@
+html {
+  background-color: lightgrey;
+}
+
+.pic {
+  width: 32%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=styles4.css.map */
