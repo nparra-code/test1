@@ -9,7 +9,7 @@ html {
   margin-right: auto;
 }
 
-@media (device-width = 720) {
+@media (max-width: 720px) {
   .pic {
     width: 100%;
   }
