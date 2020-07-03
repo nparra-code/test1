@@ -9,6 +9,11 @@ html {
   margin-right: auto;
 }
 
+@media (device-width = 720) {
+  .pic {
+    width: 100%;
+  }
+}
 p {
   font-size: 20px;
   text-align: center;
